@@ -6,10 +6,15 @@ I'm having problem trying to load test dataset into the database. However, from 
 I could create the tables and put in some sample rows of my own for testing and code development for task 2.
 
 Here are the files: 
+
 tables_creation_script.sql : For creating the tables
+
 add_foreign_key.sql : For adding the defined constraints
+
 add_primary_key.sql : For adding primary keys to the tables
+
 create_users.sql : Task 1.1
+
 query.sql : Task 1.2
 
 
