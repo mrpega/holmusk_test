@@ -8,6 +8,7 @@ pip-wheel-metadata/
 
 # Temporary OS files
 Icon*
+.DS_Store
 
 # Temporary virtual environment files
 /.cache/
