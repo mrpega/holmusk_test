@@ -14,7 +14,7 @@ Icon*
 /.venv/
 
 # Temporary server files
-.env
+# .env -comment off for showing .env explicitly
 *.pid
 
 # Generated documentation
